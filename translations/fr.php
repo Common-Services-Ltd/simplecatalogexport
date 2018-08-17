@@ -1,0 +1,30 @@
+<?php
+
+global $_MODULE;
+$_MODULE = array();
+$_MODULE['<{simplecatalogexport}prestashop>simplecatalogexport_9d9eaee8c1e14f62a904c979cbccafab'] = 'Export de catalogue simple';
+$_MODULE['<{simplecatalogexport}prestashop>simplecatalogexport_1f9c2b6b2d41f91c01b05df8a6ec77fc'] = 'Exportez votre catalogue au format CSV.';
+$_MODULE['<{simplecatalogexport}prestashop>catalog_678e1931eb57d823a96ff29227308265'] = 'Catalogue exporté avec succès, vous pouvez le télécharger maintenant !';
+$_MODULE['<{simplecatalogexport}prestashop>catalog_7c2f1168e958144ae6a4267f7b13503d'] = 'Le fichier catalogue n\'existe, exportez le d\'abord !';
+$_MODULE['<{simplecatalogexport}prestashop>catalog_287525f391d0ada99f1c87ccf886b886'] = 'Exportez le catalogue';
+$_MODULE['<{simplecatalogexport}prestashop>catalog_9b73333918e324838908d79025e84346'] = 'Le dernier export date du';
+$_MODULE['<{simplecatalogexport}prestashop>catalog_190b314e147ba3c3a8531cc42e647a57'] = 'Lignes exportées';
+$_MODULE['<{simplecatalogexport}prestashop>catalog_9280e08fcc0f101d713a4b9ff4d5ad04'] = 'Uniquement les produits créés depuis le dernier export';
+$_MODULE['<{simplecatalogexport}prestashop>catalog_93cba07454f06a4a960172bbd6e2a435'] = 'Oui';
+$_MODULE['<{simplecatalogexport}prestashop>catalog_bafd7322c6e97d25b6299b5d6fe8920b'] = 'Non';
+$_MODULE['<{simplecatalogexport}prestashop>catalog_f0f59a382df6a29a9ebfba7c73b6c01d'] = 'Produits créés depuis';
+$_MODULE['<{simplecatalogexport}prestashop>catalog_386962ae64a71d85c9b85f0fa031f3bb'] = 'Télécharger le catalogue';
+$_MODULE['<{simplecatalogexport}prestashop>catalog_cdaaf70bf4e764a63ecd28e0a04e3899'] = 'Exportez le catalogue';
+$_MODULE['<{simplecatalogexport}prestashop>catalog_50e21d84e2f62e0d61bae893518fa884'] = 'Retour à la configuration';
+$_MODULE['<{simplecatalogexport}prestashop>configuration_038e0f4fb2fdeb49fc1fd8ac39256318'] = 'Configuration enregistrée avec success !';
+$_MODULE['<{simplecatalogexport}prestashop>configuration_1936861ec72a28209ef04070ae5277fe'] = 'Oops, une erreur s\'est produite !';
+$_MODULE['<{simplecatalogexport}prestashop>configuration_e251036c30bb77cde6ac27fb528afcb7'] = 'Documentation et Support';
+$_MODULE['<{simplecatalogexport}prestashop>configuration_dfc94e8224bbd24aa039a3c79fbb9d4e'] = 'Vous pouvez lire la documentation PDF et le README pour configurer le module';
+$_MODULE['<{simplecatalogexport}prestashop>configuration_90903e4ad3bc819a322b85b5c75c49f9'] = 'Rapport de bug sur GitHub uniquement';
+$_MODULE['<{simplecatalogexport}prestashop>configuration_d1bb0035ba97c16b2db62c4ee819e392'] = 'Pour tout rapport de bug, veuillez suivre le processus suivant';
+$_MODULE['<{simplecatalogexport}prestashop>configuration_4d7636e6848603632d761d8dc556f743'] = 'Ce module gratuit est fourni par';
+$_MODULE['<{simplecatalogexport}prestashop>configuration_35d2a045014da48b2a342f084f3713c7'] = 'sous licence';
+$_MODULE['<{simplecatalogexport}prestashop>configuration_46f5a6aafb0c9281896bc83e12799510'] = 'Vous allez adorer nos autres modules';
+$_MODULE['<{simplecatalogexport}prestashop>configuration_c2606f169116a1e6aa733d64ea759ae1'] = 'Catégories à exporter';
+$_MODULE['<{simplecatalogexport}prestashop>configuration_c9cc8cce247e49bae79f15173ce97354'] = 'Enregistrer';
+$_MODULE['<{simplecatalogexport}prestashop>configuration_79e89a64d06a468adaf277526ddc4cc9'] = 'Aller sur la page d\'export catalogue';
